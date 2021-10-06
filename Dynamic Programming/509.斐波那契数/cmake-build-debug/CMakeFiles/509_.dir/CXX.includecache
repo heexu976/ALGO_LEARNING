@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hexu/CLionProjects/ALGO_LEARNING/Dynamic Programming/509.斐波那契数/main.cpp
+iostream
+-
+vector
+-
+

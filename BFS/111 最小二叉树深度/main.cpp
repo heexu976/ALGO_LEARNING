@@ -36,8 +36,6 @@ int minDepth(TreeNode* root) {
     return depth;
 }
 
-
-
 int main() {
 
     return 0;
